@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-My name is Wacław Jacek and I am a senior+ software engineer with 18 years of professional experience.
+My name is Wacław Jacek and I am a Senior+ Software Engineer with 18 years of professional experience.
 
 ### 🤖 Tech stack
 
