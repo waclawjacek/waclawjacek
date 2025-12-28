@@ -6,11 +6,11 @@ My name is Wacław Jacek and I am a Senior+ Software Engineer with 18 years of p
 
 I can and will use:
 
-**JavaScript:** TypeScript, Node.js, NestJS, Next.js, hapi.js, React, Redux, Zustand, and Jest
-**Other languages:** Python, SQL, PHP (Laravel, Symfony, and others), and Java
-**Cloud:** AWS, Grafana, Prometheus
-**CMSes:** Astro, WordPress, WooCommerce
-CI/CD, Docker, Git, Tailwind CSS, design patterns, dad jokes, REST API best practices, Slack, GitHub, and all that jazz
+* **JavaScript:** TypeScript, Node.js, NestJS, Next.js, hapi.js, React, Redux, Zustand, and Jest
+* **Other languages:** Python, SQL, PHP (Laravel, Symfony, and others), and Java
+* **Cloud:** AWS, Grafana, Prometheus
+* **CMSes:** Astro, WordPress, WooCommerce
+* CI/CD, Docker, Git, Tailwind CSS, design patterns, dad jokes, REST API best practices, Slack, GitHub, and all that jazz
 
 ### 🧑‍💼 Past experience
 
