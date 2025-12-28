@@ -6,9 +6,11 @@ My name is Wacław Jacek and I am a Senior+ Software Engineer with 18 years of p
 
 I can and will use:
 
-* TypeScript, Node.js, NestJS, Next.js, React, and Jest,
-* Python, PHP, and Java,
-* SQL, Git, Docker, AWS, and all that jazz.
+**JavaScript:** TypeScript, Node.js, NestJS, Next.js, hapi.js, React, Redux, Zustand, and Jest
+**Other languages:** Python, SQL, PHP (Laravel, Symfony, and others), and Java
+**Cloud:** AWS, Grafana, Prometheus
+**CMSes:** Astro, WordPress, WooCommerce
+CI/CD, Docker, Git, Tailwind CSS, design patterns, dad jokes, REST API best practices, Slack, GitHub, and all that jazz
 
 ### 🧑‍💼 Past experience
 
@@ -23,10 +25,10 @@ Throughout my entire career I especially gained experience in software architect
 
 ### 🤩 My favorite things
 
-I *love* open source, working on groundbreaking projects, and making work fun.
+I *love* open source, working on groundbreaking projects, building a great user and developer experience, and making work fun.
 
 Some of my past open source contributions include:
 
-- [WooCommerce](https://github.com/woocommerce/woocommerce) and its shipping and payments plugins
-- [Translating WordPress into Polish](https://profiles.wordpress.org/waclawjacek/)
-- Working as a webmaster for [the GNU project](https://gnu.org)
+- [Working on WooCommerce](https://github.com/woocommerce/woocommerce) and its shipping and payments plugins
+- [Contributing to WordPress](https://profiles.wordpress.org/waclawjacek/) as a plugin developer and translator
+- Working as a webmaster for [the GNU project](https://gnu.org), including improving DevEx by creating [Python tools to help maintain the site](https://www.gnu.org/server/source/)
