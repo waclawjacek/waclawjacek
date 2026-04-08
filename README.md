@@ -18,11 +18,13 @@ If you would like to learn more about my career, I invite you to check out my [L
 
 #### 🛒 Engineering shipping and payments at WooCommerce
 
-<p>I spent the past 4.5 years at [WooCommerce](https://woocommerce.com/) (Automattic) working on the company's flagship shipping and payments offerings: WooCommerce Shipping and WooPayments, as well as Woo's entire shipping product suite.</p><p>Having gained tons of experience working on shipping in ecommerce, I became one of two founding members of a re-established shipping team, working closely with leadership to establish a new product strategy, leading cross-functional initiatives, and managing key partner communications.</p>
+I spent the past 4.5 years at [WooCommerce](https://woocommerce.com/) (Automattic) working on the company's flagship shipping and payments offerings: WooCommerce Shipping and WooPayments, as well as Woo's entire shipping product suite.
+
+Having gained tons of experience working on shipping in ecommerce, I became one of two founding members of a re-established shipping team, working closely with leadership to establish a new product strategy, leading cross-functional initiatives, and managing key partner communications.
 
 #### 🌐 Freelancing
 
-<p>I worked closely with clients on projects big and small, spanning from WordPress and WooCommerce tweaks to completely custom web apps.</p>
+I worked closely with clients on projects big and small, spanning from WordPress and WooCommerce tweaks to completely custom web apps.
 
 ### 🧑‍🔬 Areas of expertise
 
